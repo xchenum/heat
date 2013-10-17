@@ -2,3 +2,4 @@
 host=openstack-n1
 port=29418
 project=openstack/heat.git
+defaultremote = origin
